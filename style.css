@@ -6,16 +6,21 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/heroImage.jpeg');
+    background: url('images/akr11.jpg');
     background-size:cover;
     position:relative;
 }
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;
+    text-align: right;
+    background: -webkit-linear-gradient(left, #580f0f, rgb(19, 17, 136), rgb(2, 57, 37));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .hero_desc {
     font-size: 2rem;
+    text-align: right;
 }
 .hero-text {
     text-align: center;
@@ -64,7 +69,7 @@
     font-size: 36px;
     cursor: pointer;
 }
-.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
+.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-github:hover {
     color: #008000;
 }
 .fab {
