@@ -16,6 +16,7 @@
     text-align: right;
     background: -webkit-linear-gradient(left, #580f0f, rgb(19, 17, 136), rgb(2, 57, 37));
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .hero_desc {

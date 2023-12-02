@@ -17,3 +17,12 @@ const menuToggle = document.getElementById('navbarSupportedContent')
 navLinks.forEach((l) => {
     l.addEventListener('click', () => { new bootstrap.Collapse(menuToggle).toggle() })
 })
+
+document.getElementById("mail_button").addEventListener("click", function() {
+    var name = document.getElementById("mail_name").value;
+    var email = document.getElementById("mail_id").value;
+    var subject = document.getElementById("mail_subject").value;
+    var details = document.getElementById("mail_details").value;
+    var mailto = "mailto:akhilr2326@gmail.com?subject=" + subject + "&body=Name: " + name + "%0AEmail: " + email + "%0AMail Details: " + details;
+    document.getElementById("mail_link").setAttribute("href", mailto);
+  });
