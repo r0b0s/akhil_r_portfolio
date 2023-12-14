@@ -1,4 +1,13 @@
 # akhil_r_portfolio
- This is a portfolio website for Akhil Raveendran
+ This is a portfolio website for Akhil Raveendran.
 
-The portfolio consists of all the important aspects regarding Akhil Raveendran.
+The basic portfolio details include, as shown below,
+
+---
+
+I'm Akhil Raveendran, a Python developer based in Kollam City, Kerala. 
+I specialize in web application development using Django. 
+My services include website development, design, deployment, SEO, DevOps, and quality assurance. Explore my projects, including an online food delivery service, quiz app, and more. 
+Feel free to reach out via email or phone for collaboration.
+
+---
