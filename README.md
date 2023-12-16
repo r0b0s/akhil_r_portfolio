@@ -1,7 +1,7 @@
 # akhil_r_portfolio
  This is a portfolio website for Akhil Raveendran.
 
-The basic portfolio details include, as shown below,
+The basic portfolio details, as shown below,
 
 ---
 
@@ -11,3 +11,6 @@ My services include website development, design, deployment, SEO, DevOps, and qu
 Feel free to reach out via email or phone for collaboration.
 
 ---
+
+For more details regarding repositories,
+https://github.com/akhilr2326
